@@ -1,0 +1,26 @@
+STYLE NOTES FOR CHESS FAVOURITES ASSIGNMENT
+
+LAYOUT
+Use a Centered Fixed Width body of 900px.  Content inside of body has a width of 600px.
+
+FONTS
+- Main Heading is "Kavivanar" (from Google Fonts) with a 4px letter spacing
+- Sub headings are "Kavivanar" (from Google Fonts) and small-caps
+- Paragraphs are "Montserrat" (from Google Fonts) with a 0.5px letter spacing
+- Paragraphs below the images are 12px and italic
+
+COLORS
+- Body background color is white with a 0.9 alpha value
+- Main heading background color is rgb(60, 60, 60) and text is white
+- Sub headings use basic orange, blue and red
+
+IMAGES
+- Main page background is "boardBackground.jpg" repeated
+- Chess piece images are all 400px x 300px
+
+LINKS
+Each image is a link (open links in a new tab)
+- Pawn Image: "http://www.chesscorner.com/tutorial/basic/pawn/pawn.htm"
+- Knight Image: "http://www.chesscorner.com/tutorial/basic/knight/knight.htm"
+- Queen Image: "http://www.chesscorner.com/tutorial/basic/queen/queen.htm"
+
